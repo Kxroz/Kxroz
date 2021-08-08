@@ -1,3 +1,4 @@
+# Code by Foxy
 import time
 import os
 print("\033[31m")
@@ -111,3 +112,4 @@ print("""
 ╚═╝░░╚═╝╚═════╝░╚═╝░╚════╝░╚═════╝░
 """)
 time.sleep(2)
+# Code by Foxy
